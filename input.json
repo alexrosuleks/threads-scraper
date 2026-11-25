@@ -1,0 +1,15 @@
+{
+  "mode": "user",
+  "usernames": [
+    "zuck"
+  ],
+  "max_posts": 10,
+  "search_filter": "top",
+  "search_language": "english",
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}
